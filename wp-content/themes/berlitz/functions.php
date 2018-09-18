@@ -1,11 +1,5 @@
 <?php
-/**
- * Enqueues scripts and styles.
- *
- * @since Twenty Sixteen 1.0
- */
-//require_once( __DIR__ . '/vendor/autoload.php' );
-//$timber = new Timber\Timber();
+
 function twentysixteen_scripts() {
 
     // Theme stylesheet.
